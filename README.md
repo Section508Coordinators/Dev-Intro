@@ -1,4 +1,4 @@
-# Section 508 Playbook Series: Scope and Resources
+# Section 508 Playbook Series Support: Start Here!
 This repository is the top-level resource to support the organization of example scripts, code, self-paced training, and additional resources related to the Section 508 Developer and Section 508 Tester playbooks.  
 
 ## The playbook support is organized across the following repositories:  
