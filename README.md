@@ -1,4 +1,4 @@
-# Overview: Section 508 Playbooks
+# Overview: Section 508 Playbook Support
 This repository is the top-level organizational resource to support the organization of example scripts, code, and self-paced training related to the Section 508 Developer and Section 508 Tester playbooks.  
 
 ## The playbook support is organized across the following repositories:  
