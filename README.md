@@ -3,7 +3,14 @@ This repository is the top-level resource to support the organization of example
 
 ## The playbook support is organized across the following repositories:  
 
-* [Accessible UI Frameworks](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
-* [Accessible Authoring Tools](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
-* [Accessible Coding Techniques](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
+* [Section 508 Playbook Series Content](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)  
 
+* [Playbook Resource Files](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)  
+
+    * [Section 508 Test Tools: Supporting Files](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
+    * [How to Evaluate Section 508 Test Tools: Supporting Files](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
+
+* [Examples and Script Files ](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)  
+
+    * [Accessible & Usable Software Development](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
+    * [Section 508 Test Tools](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
