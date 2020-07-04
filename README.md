@@ -15,4 +15,4 @@ This repository is the top-level resource to support the organization of example
     * [Accessible & Usable Software Development](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)
     * [Section 508 Test Tools](https://github.com/akingkci/508-Test-Automation/tree/master/examples/pa11y)  
     
-[DHS OAST Website](https://www.dhs.gov/office-accessible-systems-technology) and the [Section 508 Playbooks Support Overview Wiki](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki).
+To find out more, please check out the **[DHS OAST Website](https://www.dhs.gov/office-accessible-systems-technology)** and the **[Section 508 Playbooks Support Overview Wiki](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)**.
