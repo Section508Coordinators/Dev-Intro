@@ -13,7 +13,7 @@ Plenty! See the Wiki for more details, but an important thread that runs through
 ### Teamwork makes the DREAM WORK!
 <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
 
-#### OAST wants You!  
+#### OAST wants You Too!  
 In the spirit of teamwork, DHS OAST wants your participation in the following activities to enhance the effectiveness and relevance of the Playbook series:  
 
 &nbsp; 1. <u>Playbook series feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable input.  
