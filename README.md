@@ -1,9 +1,9 @@
-## Your Playbook Series support *starts here!*
+## Your DHS OAST Section 508 Playbook Series support *starts here!*
 <img align="right" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 
-Welcome to the <abbr title="Department of Homeland Security Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series gitHub support site!  
+Welcome to the <abbr title="Department of Homeland Security Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series (hereafter referrerd to as the "playbook series") gitHub support site!  
 
-This <em>Section508Coordinators</em> gitHub site has many areas and assets. To help orient those interested in following along with the support provided for the Playbook series (hereinafter referred to as "the playbooks"), OAST has provided this introductory page as well as a [Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki) which serves as a detailed roadmap to the technical support available on this site.  
+This <em>Section508Coordinators</em> gitHub site has many areas and assets. To help orient those interested in following along with the support provided for the Playbook series, DHS OAST has provided this introductory page as well as a [Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki) which serves as a detailed roadmap to the technical support available on this site.  
 
 Do a version of my accessibility day presentation here. Introduce what's new: Developer engagment and Test Automation and Universal Design (21st Centery in addition to Section 508. introduce the concept of C.A.L.M.  
 <br />
