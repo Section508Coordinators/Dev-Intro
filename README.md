@@ -16,14 +16,14 @@ Plenty! See the Wiki for more details, but an important thread that runs through
 #### OAST wants You!  
 In the spirit of teamwork, DHS OAST wants your participation in the following activities to enhance the effectiveness and relevance of the Playbook series:  
 
-   1. <u>Playbook series feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable input.  
+1. <u>Playbook series feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable input.  
 
-   2. <u>Playbook Pilot Program</u>: OAST wants you to participate in piloting some of the paradigm shifts, guidance, and best practices that are recommended in the Playbooks. OAST will reach out shortly to connect with technical and acquisition teams willing to help vet the effectiveness of some of the "plays" by putting Playbook concepts into action on a small scale.  
+2. <u>Playbook Pilot Program</u>: OAST wants you to participate in piloting some of the paradigm shifts, guidance, and best practices that are recommended in the Playbooks. OAST will reach out shortly to connect with technical and acquisition teams willing to help vet the effectiveness of some of the "plays" by putting Playbook concepts into action on a small scale.  
 <br/><br/>
 #### On the Horizon...
 The following OAST activites are currently in the works and should be make available shortly:  
 
-   1. Communities of Practice (CoP):
+1. Communities of Practice (CoP):
   * Trusted Tester: OAST is in the process of providing an enhanced platform as well as gearing up for the ability to support issues surrounding the new Trusted Tester version 5 for Web training and test methodlogy questions and issues
   * Developer and Test Autoomation CoPs: OAST is expanding its CoP by adding developer and test Automation CoPs to support the new guidance and best practices promoted within the new Developer and Tester playbooks respectively.
 
