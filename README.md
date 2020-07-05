@@ -20,4 +20,4 @@ Then point to the Wiki in this repository as being the real starting place for c
 <br /><br /><br /><br /><br />
 <hr>
     
-So ot get a good, organized start to your journey, please check out  **[Section 508 Playbooks Support Overview Wiki!!](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)**.
+So with this intro under your belt, to get a good, organized start to your continued journey, please check out  **[Section 508 Playbooks Support Overview Wiki!!](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)**.
