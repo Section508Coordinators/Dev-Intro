@@ -1,7 +1,7 @@
 ## Your DHS OAST Section 508 Playbook Series support *starts here...*
 <img align="right" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 
-Welcome to the <abbr title="Department of Homeland Security, Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series gitHub support site!  
+Welcome to the [DHS OAST]: Department of Homeland Security, Office of Accessible Systems & Technology Section 508 Playbook series gitHub support site!  
 
 This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** which serves as a detailed roadmap to the technical support available to you.  
 ### What is the Section 508 Playbook Series?
@@ -11,10 +11,9 @@ As the name implies, the Section 508 Playbook Series is a collection of legal an
 Plenty! See the Wiki for more details, but an important thread that runs throughout the playbook series is one of teamwork.
 <br />
 ### Teamwork makes the DREAM WORK!
-<img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
-
-##### OAST wants You!  
-1. Playbook series content and guidance feedback: OAST wants you to provide thoughtful feedback on the Playbook series. Reach out to Robert Baker to get access and set up a convenient feedback loop for providing your valuable feedback on the concepts in the playbooks.  
+<img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
+#### OAST wants You!  
+1. <u>Playbook series content and guidance feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable feedback.    
 2. Playbook Pilot Program: OAST wants you to be a part of piloting the paradigm shifts, guidance and recommended best practices that accompany compliance with the revised Section 508 guidelines and the vision of the Congressional 21st Century IDEA. We will be reaching out shortly to connect with DHS Component technical and acquisition teams willing to put playbook concepts into action on a small scale.  
 #### On the Horizon...
 The following OAST activites are currently in the works and should be make available shortly:  
