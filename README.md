@@ -6,7 +6,7 @@ Do a version of my accessibility day presentation here. Introduce what's new: De
 
 
 <p align="center">
-  Teamwork makes the DREAM WORK!
+  ###Teamwork makes the DREAM WORK!  <br /><br />
   <img src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 </p>
 
