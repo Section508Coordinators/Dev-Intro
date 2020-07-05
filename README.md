@@ -21,6 +21,7 @@ In the spirit of teamwork, DHS OAST wants your participation in the following ac
 
 &nbsp; 2. <u>Playbook Pilot Program</u>: 
   * OAST wants you to participate in piloting some of the paradigm shifts, guidance, and best practices that are recommended in the Playbooks. OAST will reach out shortly to connect with technical and acquisition teams willing to help vet the effectiveness of some of the "plays" by putting Playbook concepts into action on a small scale.  
+  
 <br/><br/>
 #### On the Horizon...
 The following OAST activites are currently in the works and should be make available shortly:  
