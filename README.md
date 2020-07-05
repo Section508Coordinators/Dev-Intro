@@ -14,11 +14,11 @@ Plenty! See the Wiki for more details, but an important thread that runs through
 <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
 
 #### OAST wants You!  
-Through teamwork, DHS OAST wants your participation in the following activities to together, make them better:  
+In the spirit of teamwork, DHS OAST wants your participation in the following activities to enhance the effectiveness and relevance of the Playbook series:  
 
 1. <u>Playbook series feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable input.  
 
-2. <u>Playbook Pilot Program</u>: OAST wants you to be a part of piloting the paradigm shifts, guidance and recommended best practices that accompany compliance with the revised Section 508 guidelines and the vision of the Congressional 21st Century IDEA. We will be reaching out shortly to connect with DHS Component technical and acquisition teams willing to put playbook concepts into action on a small scale.  
+2. <u>Playbook Pilot Program</u>: OAST wants you to participate in piloting some of the paradigm shifts, guidance, and recommended best practices expressed in the playbooks. OAST will reach out shortly to connect with technical and acquisition teams willing to vett the effectiveness of some of the "plays" by putting Playbook concepts into action on a small scale.  
 
 #### On the Horizon...
 The following OAST activites are currently in the works and should be make available shortly:
