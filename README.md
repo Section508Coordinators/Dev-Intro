@@ -1,4 +1,4 @@
-## Section 508 Playbook developer & tester technical support starts here!
+## Your DHS OAST Section 508 Playbook Series support starts here!
 <img align="right" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 This repository is the top-level resource to support the organization of example scripts, code, self-paced training, and additional resources related to the Section 508 Developer and Section 508 Tester playbooks.  
 
