@@ -13,12 +13,12 @@ Plenty! See the Wiki for more details, but an important thread that runs through
 ### Teamwork makes the DREAM WORK!
 <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
 #### OAST wants You!  
-1. <u>Playbook series content and guidance feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable feedback.  
+        1. <u>Playbook series content and guidance feedback</u>: OAST wants you to provide thoughtful feedback on the Playbook series content. Reach out to Robert Baker to get access to the Playbook content and set up a convenient feedback loop for providing your valuable feedback.  
 
-2. <u>Playbook Pilot Program</u>: OAST wants you to be a part of piloting the paradigm shifts, guidance and recommended best practices that accompany compliance with the revised Section 508 guidelines and the vision of the Congressional 21st Century IDEA. We will be reaching out shortly to connect with DHS Component technical and acquisition teams willing to put playbook concepts into action on a small scale.  
+        2. <u>Playbook Pilot Program</u>: OAST wants you to be a part of piloting the paradigm shifts, guidance and recommended best practices that accompany compliance with the revised Section 508 guidelines and the vision of the Congressional 21st Century IDEA. We will be reaching out shortly to connect with DHS Component technical and acquisition teams willing to put playbook concepts into action on a small scale.  
 #### On the Horizon...
 The following OAST activites are currently in the works and should be make available shortly:  
-1. <u>Communities of Practice (CoP):</u>
+        1. <u>Communities of Practice (CoP):</u>
   * <i>Trusted Tester</i>: OAST is in the process of providing an enhanced platform as well as gearing up for the ability to support issues surrounding the new Trusted Tester version 5 for Web training and test methodlogy questions and issues
   * <i>Developer and Test Autoomation CoPs</i>: OAST is expanding its CoP by adding developer and test Automation CoPs to support the new guidance and best practices promoted within the new Developer and Tester playbooks respectively.
 
