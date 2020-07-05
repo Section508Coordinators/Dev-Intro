@@ -4,9 +4,7 @@ This repository is the top-level resource to support the organization of example
 
 Do a version of my accessibility day presentation here. Introduce what's new: Developer engagment and Test Automation and Universal Design (21st Centery in addition to Section 508. introduce the concept of C.A.L.M.  
 
-
-
-<p align="left">
+<br /><p align="left">
   <b>Teamwork makes the DREAM WORK!</b>  <br /><br />
   <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 </p>
