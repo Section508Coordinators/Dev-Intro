@@ -1,7 +1,7 @@
 # Section 508 Playbook Series Support: Start Here!
 
 <p align="left">
-  <img src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
+  <img src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/><br clear="left">
 </p>
 
 This repository is the top-level resource to support the organization of example scripts, code, self-paced training, and additional resources related to the Section 508 Developer and Section 508 Tester playbooks.  
