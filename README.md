@@ -1,7 +1,7 @@
 ## Your DHS OAST Section 508 Playbook Series support *starts here!*
 <img align="right" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 
-Welcome to the <abbr title="Department of Homeland Security Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series (hereafter referrerd to as the "playbook series") gitHub support site!  
+Welcome to the <abbr title="Department of Homeland Security, Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series gitHub support site!  
 
 This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** which serves as a detailed roadmap to the technical support available.  
 
