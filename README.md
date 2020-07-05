@@ -8,7 +8,7 @@ This gitHub site has many areas and assets. To help orient those interested in t
 As the name implies, the Section 508 Playbook Series is a collection of legal and business guidelines & best practices (aka, "plays") intended to provide DHS Component staff with readily available, "go to" recommendations for proactively planning for and addressing the many activities and common challenges in delivering the services of ICT software development, testing, and procurement as they apply to the need for conformance and administration of the current Section 508 Law.   
 
 ### What's new about the Playbooks?
-Plenty! See the Wiki for more details, but an important thread that runs throughout the playbook series is one of teamwork.
+Plenty! See the ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** for more details, but an important thread that runs throughout the playbook series is one of teamwork.
 <br />
 ### Teamwork makes the DREAM WORK!
 <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
