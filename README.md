@@ -17,7 +17,7 @@ Tell about the upcoming Pilot and Communities of Practice (Developer and Test Au
 Put an engaging graphic on this page that dispays the the cooperation and collaboration between UI/UX designers, developers, test automation engineers in addition to Trusted Testers.
 
 Then point to the Wiki in this repository as being the real starting place for consuming the informaiton and resources  in the Playbook and the repositories this github site.
-
+<br /><br /><br />
 <hr>
     
-To find out more, please check out the **[DHS OAST Website](https://www.dhs.gov/office-accessible-systems-technology)** and the **[Section 508 Playbooks Support Overview Wiki](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)**.
+So ot get a good, organized start to your journey, please check out  **[Section 508 Playbooks Support Overview Wiki!!](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)**.
