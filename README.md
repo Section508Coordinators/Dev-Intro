@@ -23,7 +23,7 @@ In the spirit of teamwork, DHS OAST wants your participation in the following ac
 #### On the Horizon...
 The following OAST activites are currently in the works and should be made available shortly:  
 
-&nbsp; 1. Communities of Practice (CoP):
+&nbsp; 1. <u>Communities of Practice (CoP)</u>:
   * Trusted Tester: OAST is in the process of providing an enhanced platform as well as gearing up for the ability to support issues surrounding the new Trusted Tester version 5 for Web training and test methodlogy questions and issues
   * Developer and Test Automation CoPs: OAST is expanding its CoP by adding developer and test Automation CoPs to support the new guidance and best practices promoted within the new Developer and Tester playbooks respectively.
 
