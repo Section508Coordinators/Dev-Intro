@@ -3,7 +3,7 @@
 
 Welcome to the <abbr title="Department of Homeland Security Office of Accessible Systems & Technology (DHS OAST)">DHS OAST</abbr> Section 508 Playbook series (hereafter referrerd to as the "playbook series") gitHub support site!  
 
-This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a [Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki) which serves as a detailed roadmap to the technical support available.  
+This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** which serves as a detailed roadmap to the technical support available.  
 
 Do a version of my accessibility day presentation here. Introduce what's new: Developer engagment and Test Automation and Universal Design (21st Centery in addition to Section 508. introduce the concept of C.A.L.M.  
 <br />
