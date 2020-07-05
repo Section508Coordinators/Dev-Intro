@@ -6,10 +6,9 @@ Do a version of my accessibility day presentation here. Introduce what's new: De
 <br />
 <p align="left">
   <b>Teamwork makes the DREAM WORK!</b>
-  <br /><br />
+  <br />
   <img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 </p>
-
 Tell about the upcoming Pilot and Communities of Practice (Developer and Test Automation Engineers in addition to Trusted Testers)
 
 Put an engaging graphic on this page that dispays the the cooperation and collaboration between UI/UX designers, developers, test automation engineers in addition to Trusted Testers.
