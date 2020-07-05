@@ -29,6 +29,6 @@ The following OAST activites are currently in the works and should be made avail
 
 <hr>
     
-<p align="center">
-Continue your journey by visiting the Wiki Page
-</p>
+<center>
+Continue your journey by visiting the ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)***
+
