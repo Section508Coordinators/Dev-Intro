@@ -1,17 +1,17 @@
 ## Your DHS OAST Section 508 Playbook Series support *starts here...*
-<img align="right" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
+<img align="right" src="https://github.com/akingkci/Playbook-Intro/blob/master/img/Playbooks-2.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>
 
 Welcome to the [DHS OAST]: Department of Homeland Security, Office of Accessible Systems & Technology Section 508 Playbook series gitHub support site!  
 
-This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** which serves as a detailed roadmap to the technical support available to you.  
+This gitHub site has many areas and assets. To help orient those interested in the support available for the Playbook series, DHS OAST has provided this summary introductory page as well as a ***[Wiki page](https://github.com/akingkci/Playbook-Intro/wiki)*** which serves as a detailed roadmap to the technical support available to you.  
 ### What is the Section 508 Playbook Series?
 As the name implies, the Section 508 Playbook Series is a collection of legal and business guidelines & best practices (aka, "plays") intended to provide DHS Component staff with readily available, "go to" recommendations for proactively planning for and addressing the many activities and common challenges in delivering the services of ICT software development, testing, and procurement as they apply to the need for conformance and administration of the current Section 508 Law.   
 
 ### What's new about the Playbooks?
-Plenty! See the ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)*** for more details, but an important thread that runs throughout the playbook series is one of teamwork.
+Plenty! See the ***[Wiki page](https://github.com/akingkci/Playbook-Intro/wiki)*** for more details, but an important thread that runs throughout the playbook series is one of teamwork.
 <br />
 ### Teamwork makes the DREAM WORK!
-<img align="left" src="https://github.com/akingkci/Section-508-Playbooks-Support-Overview/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
+<img align="left" src="https://github.com/akingkci/Playbook-Intro/blob/master/img/Teamwork.jpg?raw=true" alt="Teamwork makes the DREAM WORK!!"/>   
 
 #### OAST wants you!  
 In the spirit of teamwork, DHS OAST wants your participation in the following activities to enhance the effectiveness and relevance of the Playbook series:  
@@ -29,5 +29,4 @@ The following OAST activites are currently in the works and should be made avail
 
 <hr>
     
-Continue your journey now by visiting the ***[Wiki page](https://github.com/akingkci/Section-508-Playbooks-Support-Overview/wiki)***
-
+Continue your journey now by visiting the ***[Wiki page](https://github.com/akingkci/Playbook-Intro/wiki)***
