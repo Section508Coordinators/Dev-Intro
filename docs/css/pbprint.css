@@ -4,21 +4,25 @@
 
 @media print {
 
-  body {
-    margin: 0;
-    color: #000;
-    background-color: #fff;
-  }
-    
-  .jumbotron h1 {
+    .jumbotron h1 {
       color: black !important;
       font-weight: 500 !important;
     }
     
-  .jumbotron p {
+    .jumbotron p {
       color: black !important;
       font-weight: 400 !important;
     }
     
+    .pbfooterDiv {
+        border-style: double !important;
+    }
+
+    .pbfooterDiv p {
+        color: black !important;
+        font-weight:500 !important;        
+    }
+    
+
 
 }
