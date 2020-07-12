@@ -10,9 +10,15 @@
     background-color: #fff;
   }
     
-  .jumbotron {
+  .jumbotron h1 {
       color: black !important;
-      font-weight: bolder !important;
+      font-weight: 500 !important;
     }
+    
+  .jumbotron p {
+      color: black !important;
+      font-weight: 400 !important;
+    }
+    
 
 }
